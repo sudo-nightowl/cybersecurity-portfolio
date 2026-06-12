@@ -10,7 +10,7 @@ This repository contains my cybersecurity learning journey, including:
 I am focused on web security, bug bounty hunting, and red-team style thinking.
 
 ## Writeups
-- (coming soon)
+- /writeups/logic-bug-templates
 
 ## Goals
 - Improve web security skills
