@@ -24,3 +24,13 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Improve web security skills
 - Gain real-world vulnerability research experience
 - Build a public portfolio of security work
+
+## Training & Certifications
+- Offensive Pentesting: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9VZMOU0MXK.pdf
+- Red Teaming: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WIPNYVTKSJ.pdf
+- CompTIA Pentest+: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GWFQPMR9LG.pdf
+- Cyber Security 101: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7T6RK3VSTF.pdf
+- Pre Security (Legacy): https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OXBSFE2DJA.pdf
+- Jr Penetration Tester (Legacy): https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JVZDC3EIF5.pdf
+- Web Application Pentesting: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-F4XOJU73YJ.pdf
+- Web Fundamentals (Legacy): https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UMFTPSIT9H.pdf
