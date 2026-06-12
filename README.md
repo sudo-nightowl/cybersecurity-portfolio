@@ -16,7 +16,10 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Exploiting a Race Condition to Bypass Free-Tier Workspace Limits
   - [Github](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/writeups/Race-condition-vuln.md)
   - [Medium](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-a-resource-limit-real-world-case-study-79bd09f29e8f)
-
+- Email Verification Bypass via Exposed Verification Token
+  - [GitHub](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/writeups/email-verification-bypass-api-leak.md)
+  - [Medium](https://medium.com/@omaralgbry1/how-i-found-a-bug-that-let-me-change-my-account-email-to-any-email-address-without-owning-it-6e4a6d797330)
+  
 ## Goals
 - Improve web security skills
 - Gain real-world vulnerability research experience
