@@ -27,7 +27,17 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Lo-Fi CTF Writeup
   - [GitHub](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/ctf-writeups/TryHackMe-Lo-Fi-writeup.md)
   - [Medium](https://medium.com/@omaralgbry1/tryhackme-lo-fi-writeup-d34f686e36c8)
-  
+
+## Security Projects
+
+## JS Finder
+
+  A Chrome extension for client-side reconnaissance that extracts APIs, endpoints, URLs, WebSockets, and other assets from JavaScript code directly within the browser.
+
+- Chrome Web Store: https://chromewebstore.google.com/detail/js-finder/ijmlopejbjedpdcpmblnajcjljffnlpb
+- Built with JavaScript
+- Local-only processing with no data collection
+
 ## Goals
 - Improve web security skills
 - Gain real-world vulnerability research experience
