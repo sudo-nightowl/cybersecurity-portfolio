@@ -33,7 +33,7 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
   - 
 ## Security Projects
 
-# JS Finder
+### JS Finder
 
   A Chrome extension for client-side reconnaissance that extracts APIs, endpoints, URLs, WebSockets, and other assets from JavaScript code directly within the browser.
 
