@@ -30,7 +30,7 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Injectics CTF writeup
   - [GitHub](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/ctf-writeups/TryHackMe-Injectics-writeup.md)
   - [Medium](https://medium.com/@omaralgbry1/tryhackme-injectics-ctf-writeup-763bdb17ede8)
-  - 
+
 ## Security Projects
 
 ### JS Finder
