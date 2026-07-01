@@ -22,6 +22,9 @@ I am focused on web security, bug bounty hunting, and red-team style thinking.
 - Broken Access Control (BAC) on Organization Management APIs
   - [GitHub](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/writeups/BAC-Organization-Data-Leak.md)
   - [Medium](https://medium.com/@omaralgbry1/how-i-bypassed-ui-restraints-to-leak-organization-roles-members-and-invites-bac-9390d994e38f)
+- Finding a Race Condition That Broke Organization Administration
+  - [GitHub](https://github.com/sudo-nightowl/cybersecurity-portfolio/blob/main/writeups/race-condition-org-admin-bypass.md)
+  - [Medium](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?sharedUserId=omaralgbry1)
 
 ## CTF Writeups
 - Lo-Fi CTF Writeup
